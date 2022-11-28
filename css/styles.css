@@ -1,23 +1,28 @@
 /*--text-color: #434455*/
 /*--title-color: #2E2F42*/
-/*==primary-band: #4D5AE5*/
+/*--primary-band: #4D5AE5*/
 /*--footer color: #E7E9FC*/
 
-
+:root{
+--text-color: #434455;
+--title-color: #2E2F42;
+--primary-band: #4D5AE5;
+--footer-color: #E7E9FC;
+}
 
 
 
 .body{
     font-family:"Roboto", "Raleway" sans-serif;
-    background-color: #E5E5E5;
-    cursor: pointer;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text-color);
 }
 
-.page_header{
-
+.site_nav{
+    list-style: none;
 }
-
-.navigation{
-
+.logo{
+color: #4D5AE5;
 }
 
