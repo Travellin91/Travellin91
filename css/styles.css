@@ -10,19 +10,9 @@
 --footer-color: #E7E9FC;
 }
 
-
-
 .body{
     font-family:"Roboto", "Raleway" sans-serif;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text-color);
 }
-
-.site_nav{
-    list-style: none;
-}
-.logo{
-color: #4D5AE5;
-}
-
