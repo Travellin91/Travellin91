@@ -1,6 +1,23 @@
+/*--text-color: #434455*/
+/*--title-color: #2E2F42*/
+/*==primary-band: #4D5AE5*/
+/*--footer color: #E7E9FC*/
+
+
+
+
+
 .body{
     font-family:"Roboto", "Raleway" sans-serif;
     background-color: #E5E5E5;
     cursor: pointer;
+}
+
+.page_header{
+
+}
+
+.navigation{
+
 }
 
