@@ -8,11 +8,27 @@
 --title-color: #2E2F42;
 --primary-band: #4D5AE5;
 --footer-color: #E7E9FC;
+--background-color: #E5E5E5;
 }
 
 .body{
-    font-family:"Roboto", "Raleway" sans-serif;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--text-color);
+font-family:"Roboto", "Raleway" sans-serif;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: var(--background-color);
+}
+
+.list{
+    list-style: none;
+}
+
+.header-link{
+font-weight: 600;
+font-size: 1.2em;
+line-height: 24px;
+color:var(--title-color);
+}
+
+.link{
+font-family: inherit;
 }
