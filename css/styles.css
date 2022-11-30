@@ -97,7 +97,7 @@
     background-color: var(--title-color);
 }
 .hero-text-top{
-    font-family: inherit;
+    font-family: "Roboto";
     font-weight: 600;
     font-size: 56px;
     line-height: 1;
