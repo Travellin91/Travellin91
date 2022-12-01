@@ -45,7 +45,7 @@
 
 .btm:hover,
 .btm:focus{
-    color:var(--background-color);
+    background-color: var(--button-hover-color);
 }
 
 .header-logo{
@@ -184,9 +184,16 @@
     list-style: none;
 }
 
+.team-background{
+    background-color: #ffffff;
+}
+
 
                 /*Portfolio-Button*/
-    
+    .btm-portfolio{
+        list-style: none;
+    }
+
     .btm-all{
         font-family: 'Roboto';
         font-weight: 600;
@@ -307,9 +314,7 @@
         color:var(--text-color);
         }
 
-    .menu-upper-list,
-    .menu-midst-list,
-    .menu-down-list{
+        .menu-portfolio-list{
         list-style: none;
     }
 
@@ -329,7 +334,7 @@
 }
 
 .footer-title{
-    font-style: normal;
+    font-family: 'Roboto';
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
