@@ -245,7 +245,7 @@
 }
 
 .btm-app:hover,
-.btm:focus {
+.btm-app:focus {
   color: #ffffff;
   background-color: var(--primary-band);
 }
